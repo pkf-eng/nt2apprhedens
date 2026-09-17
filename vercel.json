@@ -1,0 +1,5 @@
+// Source - https://stackoverflow.com/a/79371091
+// Posted by Aniket Kumar, modified by community. See post 'Timeline' for change history
+// Retrieved 2026-09-17, License - CC BY-SA 4.0
+
+{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
